@@ -4,7 +4,7 @@ They say three times the charm, so here is another free responsive Jekyll theme 
 
 **Compatible with Jekyll 3.0 and up.**
 
-## What HPSTR brings to the table:
+## What HPSTR brings to the table.:
 
 * Modern and minimal design.
 * Responsive templates for post, page, and post index `_layouts`. Looks great on mobile, tablet, and desktop devices.
